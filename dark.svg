@@ -218,7 +218,7 @@
       <circle cx="490" cy="43" r="5.5" fill="#FF5F57"/>
       <circle cx="508" cy="43" r="5.5" fill="#FEBC2E"/>
       <circle cx="526" cy="43" r="5.5" fill="#28C840"/>
-      <text x="812.0" y="48" text-anchor="middle" font-family="monospace" font-size="12" fill="#94A3B8">mary@dev — zsh</text>
+      <text x="812.0" y="48" text-anchor="middle" font-family="monospace" font-size="12" fill="#94A3B8">marya@dev — zsh</text>
       <line x1="468" y1="62" x2="1156" y2="62" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 
       <g transform="translate(0,0)">
